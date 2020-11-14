@@ -1,4 +1,4 @@
-# Eloquent JavaScript
+# واضح جاوا سکریپٹ
 
 These are the sources used to build the third edition of Eloquent
 JavaScript (https://eloquentjavascript.net).
